@@ -1,5 +1,5 @@
-###js 实现链式调用原理
-####return this, 返回当前调用函数对象
+### js 实现链式调用原理
+#### return this, 返回当前调用函数对象
 >demo1
 ```
 function ClassA(){
