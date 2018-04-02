@@ -1,4 +1,4 @@
-##defineProperty
+## defineProperty
 - 作用：为对象定义新属性或修改原有的属性。
 - 语法：Object.defineProperty(object, propertyname, descriptor)
 >object :  必须有， 目标对象
@@ -95,7 +95,7 @@ for (var key in obj) {
     console.log(obj.name);
 } // 'xiaoming'
 ```
-####一旦使用Object.defineProperty给对象添加属性，那么如果不设置属性的特性，那么configurable、enumerable、writable这些值都为默认的false
+#### 一旦使用Object.defineProperty给对象添加属性，那么如果不设置属性的特性，那么configurable、enumerable、writable这些值都为默认的false
 
 
 >存取器描述
