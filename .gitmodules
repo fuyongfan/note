@@ -1,0 +1,3 @@
+[submodule "git-options"]
+	path = git-options
+	url = https://github.com/fuyongfan/git-options.git
