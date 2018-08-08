@@ -1,3 +1,6 @@
 [submodule "git-options"]
 	path = git-options
 	url = https://github.com/fuyongfan/git-options.git
+[submodule "learn-js-notes"]
+	path = learn-js-notes
+	url = https://github.com/fuyongfan/learn-js-notes.git
